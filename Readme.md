@@ -1,7 +1,7 @@
 # Backtracking solution to triangular peg solitaire
 
 Games of peg solitaire take place on a board with an arrangement of holes and a number of pegs that occupy the holes. Usually all holes but one are occupied by pegs. In a single move the player takes a peg, jumps it over a neighboring peg, inserts it into a hole and removes the jumped over peg. Thus in each move the number of pegs reduces by one. The game terminates when no more moves are possible. The goal is to remove the maximum number of pegs. 
-The code in this repository implements a backtracking algorithm that generates all solutions of a variant of solitaire peg known as the Cracker Barrel solitaire, shown in the photo.
+The code in this repository implements a backtracking algorithm that generates all solutions of a variant of peg solitaire known as the Cracker Barrel solitaire, shown in the photo.
 
 ![](Picture.png)
 
